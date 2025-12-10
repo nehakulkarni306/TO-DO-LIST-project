@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #144425;
+    background: #f7f7f7;
     display: flex;
     justify-content: center;
     padding-top: 50px;
@@ -8,7 +8,7 @@ body {
 
 .container {
     width: 360px;
-    background: rgb(217, 228, 92);
+    background: white;
     padding: 20px;
     border-radius: 15px;
     box-shadow: 0 4px 20px rgba(0,0,0,0.1);
@@ -110,5 +110,5 @@ li {
     to {
         opacity: 0;
         transform: translateX(20px);
-    }
+    }
 }
